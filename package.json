@@ -1,0 +1,19 @@
+{
+	"name": "star-match-game",
+	"version": "1.0.0",
+	"description": "A simple game",
+	"main": "index.js",
+	"repository": "git@github.com:rizwanahmedziai/star-match-game.git",
+	"author": "Rizwan Ahmed <rizwanahmedziai@gmail.com> (https://rizwanahmedziai.github.io/ziai@gmail.com)",
+	"license": "ISC",
+	"dependencies": {
+		"next": "^9.2.1",
+		"react": "^16.12.0",
+		"react-dom": "^16.12.0"
+	},
+	"scripts": {
+		"dev": "next",
+		"build": "next build",
+		"start": "next start"
+	}
+}
